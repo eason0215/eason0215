@@ -18,10 +18,10 @@ Discord : @eason0215
 
 |排名|游戏|时长|
 |-|-|-|
-|1|A Dance of Fire And Ice|159h|
-|2|Cookie Clicker|67.4h|
-|3|vivid/stasis|24.7h|
-|4|Balatro|17.4h|
+|1|A Dance of Fire And Ice|161.2h|
+|2|Cookie Clicker|68h|
+|3|Antimatter Dimensions|60.4h|
+|4|Revolution Idle|40.6h|
 
 
 Github Stats:
